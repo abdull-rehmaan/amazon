@@ -162,6 +162,15 @@
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRqiaz0orFoWdppTrDkwrBXl6FA0uo-JueXw&usqp=CAU);
     background-size: cover;
 }
+#toys{
+    position: relative;
+    top: 62px;
+    left: 136px;
+    color: #ffffff;
+    font-size: larger;
+    font-weight:bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
 .laptops{
     position: absolute;
     height: 200px;
