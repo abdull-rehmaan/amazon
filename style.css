@@ -200,7 +200,7 @@
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFIBir9wpj9IIkF1jWht2KkfJjEUpfrBZ8jLLvDITapcqRVS3oWslp65peDHiDrhdG34&usqp=CAU);
     background-size: cover;
 }
-#game.CDs{
+#game-CDs{
     position: relative;
     top: 90px;
     left: 85px;
