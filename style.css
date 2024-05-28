@@ -127,10 +127,10 @@
 }
 #pc{
     position: relative;
-    top: 10px;
-    left: 10px;
-    color: #000000;
-    font-size: larger;
+    top: 45px;
+    left: 135px;
+    color: #ffffff;
+    font-size: 25px;
     font-weight:bolder;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
