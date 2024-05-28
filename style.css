@@ -165,10 +165,10 @@
 }
 #toys{
     position: relative;
-    top: 90px;
-    left: 85px;
+    top: 25px;
+    left: 200px;
     color: #ffffff;
-    font-size: larger;
+    font-size: 25px;
     font-weight:bolder;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
