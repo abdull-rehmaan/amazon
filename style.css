@@ -146,10 +146,10 @@
 }
 #beauty{
     position: relative;
-    top: 62px;
-    left: 136px;
+    top: 100px;
+    left: 10px;
     color: #ffffff;
-    font-size: larger;
+    font-size: 25px;
     font-weight:bolder;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
