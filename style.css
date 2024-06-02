@@ -232,12 +232,12 @@
 }
 .clothes{
     position: absolute;
-    height: 250px;
+    height: 522px;
     width: 784px;
     top: 846px;
     left: 311px;
     border: 2px solid #0f1111;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirK0yHSO23RTdoMUSLYC9wOHdTvSu03INhztDCS2haTNv9eRVOQq8UCLe8X_ByYiYSL0&usqp=CAU);
+    background-image:url(https://images.unsplash.com/photo-1544441893-675973e31985?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D) ;
     background-size: cover;
 }
 #clothes{
@@ -253,7 +253,7 @@
     position: absolute;
     height: 288px;
     width: 722px;
-    top: 1103px;
+    top: 1375px;
     left: 2px;
     border: 2px solid #0f1111;
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTow3smauGB42YQJf1esroHT6Rkfr1UEQdjXw&usqp=CAU);
